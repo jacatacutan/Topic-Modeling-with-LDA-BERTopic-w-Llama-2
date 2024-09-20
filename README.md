@@ -4,7 +4,7 @@
 Topic modeling project with a comparative analysis on Latent Dirichlet Allocation and BERTopic with additional representation using Llama 2 13b
 
 ## Authors
-Jason Catacutan, Pau Martinez, Warren de la Cruz
+Jason Catacutan, Pau Martinez, and Warren de la Cruz
 
 ## Contents
 
