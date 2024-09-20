@@ -1,3 +1,5 @@
+![NLP Deck](https://github.com/user-attachments/assets/1ec38e3c-bfd9-4088-9a90-742cd84126cd)
+
 # Topic-Modeling-with-LDA-BERTopic-w-Llama-2
 Topic modeling project with a comparative analysis on Latent Dirichlet Allocation and BERTopic with additional representation using Llama 2 13b
 
